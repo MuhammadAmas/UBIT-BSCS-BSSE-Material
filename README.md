@@ -17,10 +17,29 @@
 - [8th Semester](https://drive.google.com/drive/folders/1mbidmEKlLDDG9nyn95SUt77HZi2eLilf?usp=sharing)
 
 
+## Projects & Labs
 
+### 3rd Semester
+- [Object Oriented Programming By Dr Humera Tariq](https://github.com/MuhammadAmas/OOP-Assignments)
+- [Assembly Language By Miss Farheen Faisal](https://github.com/MuhammadAmas/Assembly-Programs)
 
+### 4th Semester
+- [Data Structures By Dr. Muhammad Saeed](https://github.com/MuhammadAmas/Data-Structures)
 
+### 5th Semester
+- [Artificial Intelligence By Dr. Humera Bashir/Azam](https://github.com/MuhammadAmas/Artificial-Intelligence)
+- [Database Systems By Dr. Nadeem Mahmood](https://github.com/MuhammadAmas/LMS)
+- [Theory of Computer Science By Miss Madiha Khurram](https://github.com/MuhammadAmas/LangX)
 
+### 6th Semester
+- [Computer Graphics By Dr. Humera Bashir/Azam](https://github.com/MuhammadAmas/Computer-Graphics)
+- [Compiler Construction By Maryam Feroz](https://github.com/MuhammadAmas/LangX-Compiler)
+- [Concepts of Operating Systems By Miss Madiha Khurram](https://github.com/MuhammadAmas/Operating-System)
+- [Modeling and Simulation By Dr Shahista Raees](https://github.com/MuhammadAmas/Queuing-Model)
+
+### 7th Semester
+- [Network Security and Cryptography By Dr. Sadiq Ali Khan/Miss Aatia Ali Agha](https://github.com/MuhammadAmas/Encryption-Algorithms)
+- [Parallel Computing By Dr. Muhammad Saeed](https://github.com/MuhammadAmas/Parallel-And-Distributed-Computing)
 
 
 
