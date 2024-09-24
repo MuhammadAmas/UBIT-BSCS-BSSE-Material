@@ -40,6 +40,7 @@
 ### 7th Semester
 - [Network Security and Cryptography By Dr. Sadiq Ali Khan/Miss Aatia Ali Agha](https://github.com/MuhammadAmas/Encryption-Algorithms)
 - [Parallel Computing By Dr. Muhammad Saeed](https://github.com/MuhammadAmas/Parallel-And-Distributed-Computing)
+- [Internet Application Development By Zaeem Tariq](https://github.com/HashirSaudKhan/Mern-Product-Store)
 
 
 
